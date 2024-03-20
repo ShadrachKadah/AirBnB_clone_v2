@@ -1,4 +1,3 @@
-ole.py
 #!/usr/bin/python3
 """ Console Module """
 import cmd
