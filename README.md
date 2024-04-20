@@ -1,6 +1,6 @@
 0x02. AirBnB clone - MySQL
 ==========================
-
+This project was carried out by Shadrach Kadah and Onyekachi Acha
 Background Context
 ------------------
 Environment variables will be your best friend for this project!
